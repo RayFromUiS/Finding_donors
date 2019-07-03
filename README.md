@@ -1,8 +1,11 @@
 # Project description
 _First udacity project regarding to find the Donors for charityML. 
-With nearly 15 million working Californians, CharityML has brought us on board to help build an algorithm to best identify potential donors and reduce overhead cost of sending mail. 
+ CharityML has brought us on board to help build an algorithm,
+ to best identify potential donors and reduce overhead cost of sending mail_.
 
-_Our goal will be to evaluate and optimize several different supervised learning algorithms to determine which algorithm will provide the highest donation yield, while also reducing the total number of letters being sent.
+_Our goal will be to evaluate and optimize several different supervised learning algorithms
+to determine which algorithm will provide the highest donation yield, 
+while also reducing the total number of letters being sent_.
 
 # project sketch
  * explore the data to learn how the census data is recorded
