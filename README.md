@@ -20,9 +20,9 @@ Our goal will be to evaluate and optimize several different supervised learning 
 * Test on tuned algorithm ,Adaboost, elicit accuracy of 86.51% 
 
 # Software and libraries
-1 Python 3.7
-2 NumPy
-3 pandas
-4 scikit-learn (v1.17)
-5 matplotlib
+1. Python 3.7
+2. NumPy
+3. pandas
+4. scikit-learn (v1.17)
+5. matplotlib
 
