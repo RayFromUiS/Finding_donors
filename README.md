@@ -15,7 +15,7 @@ while also reducing the total number of letters being sent_.
  * tests performance on  given data
 
 # Implementation
-* load data from U.S. census
+* load and explore data from U.S. census
 * Choose measure metrics is fbeta score and accuracy, beta as 0.5.
 * transformd numeric data with  log scaler,minmax scaler, categorrical data is one hot encoded.
 * compare SVM,NB,Adaboost classifer on training and testing data
