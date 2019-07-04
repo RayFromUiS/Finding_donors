@@ -26,6 +26,6 @@ while also reducing the total number of letters being sent_.
 1. Python 3.7
 2. NumPy
 3. pandas
-4. scikit-learn (v1.17)
+4. scikit-learn (v0.20)
 5. matplotlib
 
